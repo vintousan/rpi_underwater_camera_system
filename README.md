@@ -7,3 +7,5 @@ Computer vision and image processing technologies are applied towards aquatic re
 
 ## References
 (Updating...)
+ 
+ *[MATLAB Implementation of Color Balance and Fusion, an underwater image enhancement algorithm](https://github.com/fergaletto/Color-Balance-and-fusion-for-underwater-image-enhancement.-.)
