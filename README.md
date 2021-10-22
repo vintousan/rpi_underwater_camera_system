@@ -8,6 +8,6 @@ Computer vision and image processing technologies are applied towards aquatic re
 (Updating...)
 ## References
 * [C. O. Ancuti, C. Ancuti, C. De Vleeschouwer and P. Bekaert, "Color Balance and Fusion for Underwater Image Enhancement," in IEEE Transactions on Image Processing, vol. 27, no. 1, pp. 379-393, Jan. 2018, doi: 10.1109/TIP.2017.2759252.](https://doi.org/10.1109/TIP.2017.2759252)
-* [Installation of OpenCV 4 on Raspberry Pi 4](https://www.pyimagesearch.com/2019/09/16/install-opencv-4-on-raspberry-pi-4-and-raspbian-buster/)
-* [Increasing FPS on Raspberry Pi-based Camera with Python and OpenCV](https://www.pyimagesearch.com/2015/12/28/increasing-raspberry-pi-fps-with-python-and-opencv/)
+* [pyimagesearch's Guide for Installation of OpenCV 4 on Raspberry Pi 4](https://www.pyimagesearch.com/2019/09/16/install-opencv-4-on-raspberry-pi-4-and-raspbian-buster/)
+* [pyimagesearch's Guide for Increasing FPS on Raspberry Pi-based Camera with Python and OpenCV](https://www.pyimagesearch.com/2015/12/28/increasing-raspberry-pi-fps-with-python-and-opencv/)
 * [github.com/fergaletto's MATLAB Implementation of Color Balance and Fusion, an underwater image enhancement algorithm](https://github.com/fergaletto/Color-Balance-and-fusion-for-underwater-image-enhancement.-.)
