@@ -18,7 +18,7 @@ CUR_DIR = os.getcwd()
 # Local Storage Directory - the primary, permanent local storage of acquired images 
 HDD_DEST_DIR = '/media/ucamclient/DATA'
 # Token - the unique ID string for accessing Dropbox
-TOKEN = 'w0-SC--t-RwAAAAAAAAAAfua0HM5J9IBWip5pNmq97xcunmOitcNHXM5B74VTCeC'
+#TOKEN = 'token'
 # Thresholds - the amount of free space in both storages that triggers the deletion of old files 
 HDD_THR = 100_000_000 # 100 Mb #TEST_THR = 1_999_500_000_000
 DBX_THR = 50_000_000 # 50 Mb
